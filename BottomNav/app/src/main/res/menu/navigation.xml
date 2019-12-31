@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/canvas_frag"
+        android:icon="@drawable/ic_canvas_black_24dp"
+        android:title="Canvas"/>
+
+    <item
+        android:id="@+id/grid_frag"
+        android:icon="@drawable/ic_grid_black_24dp"
+        android:title="Grid"/>
+
+    <item
+        android:id="@+id/dialog_view"
+        android:icon="@drawable/ic_dialogs_black_24dp"
+        android:title="Dialogs"/>
+
+    <item
+        android:id="@+id/component_view"
+        android:icon="@drawable/ic_components_black_24dp"
+        android:title="Components"/>
+
+    <item
+        android:id="@+id/switch_view"
+        android:icon="@drawable/ic_switch_black_24dp"
+        android:title="Switch"/>
+
+</menu>
